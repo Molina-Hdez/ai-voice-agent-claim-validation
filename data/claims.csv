@@ -1,0 +1,6 @@
+claim_number,zip_code,customer_name,status,amount
+A123,90210,John Smith,APPROVED,1500.00
+B456,10001,Jane Doe,PENDING,2300.00
+C789,60601,Bob Johnson,APPROVED,850.00
+D012,94105,Alice Brown,REJECTED,1200.00
+E345,33101,Charlie Wilson,APPROVED,3200.00
